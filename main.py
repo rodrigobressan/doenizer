@@ -57,7 +57,7 @@ with st.sidebar:
     )
 
 # Upload & Anonymize Page
-if page == "Upload & Anonymize":
+if page == "Audio Anonymizer":
     st.title("📤 Upload & Anonymize Medical Notes (Audio)")
     st.markdown(
         "Upload an audio file of a doctor's note, and Doenize will transcribe it and anonymize sensitive patient data.")
